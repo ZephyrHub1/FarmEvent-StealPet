@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/JUVeu2Pz/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZephyrHub1/StealBrainot/refs/heads/main/script.obfuscated.lua"))()
